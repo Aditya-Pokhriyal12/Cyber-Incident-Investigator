@@ -1,4 +1,4 @@
-# SIEM Threat Detection System
+# Cyber Incident Ivestigator
 
 A modular Security Information and Event Management (SIEM) pipeline built with **FastAPI**, **RandomForest**, and **XGBoost** that detects cyber threats from HTTP access logs and network flow data.
 
